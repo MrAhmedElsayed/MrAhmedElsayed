@@ -58,4 +58,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MrAhmedElsayed&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMrAhmedElsayed.readme)
+
