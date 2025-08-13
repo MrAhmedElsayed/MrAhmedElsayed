@@ -1,11 +1,18 @@
 # 👋 Hi, I'm Ahmed El Sayed
 
-💻 **Freelance Developer** specializing in AutoCAD plugins, Django, Nuxt, and full-stack web solutions.  
-🚀 Currently working on: **Survey Points Manager** (AutoCAD Plugin)  
-🌍 Multilingual Nuxt Content Documentation Project (3 Languages)  
-📚 Currently learning: **Google Data Analytics Professional Certificate**  
-🛠 Ask me about: Optimizing workflows for AutoCAD plugins.  
-✨ Fun fact: The UTM coordinate system divides the world into 60 vertical zones!  
+Freelance Developer specializing in Django, Nuxt/Vue, and full-stack web solutions with seamless backend–frontend integration.
+Currently building: Survey Points Manager – a professional AutoCAD plugin published on the Autodesk App Store.
+Ongoing projects: Multilingual Nuxt Content Documentation (3 languages) powered by Tailwind CSS and deployed via Cloudflare.
+
+Expertise:
+
+Web Development: Django, Django REST, HTMX, Alpine.js for highly interactive and performant websites.
+
+Static Sites: Nuxt + Nuxt Content with Tailwind (custom or UI library), deployed globally with Cloudflare.
+
+AutoCAD & Autodesk Plugins: Professional plugins for AutoCAD, Revit, and other Autodesk products with available APIs.
+
+Currently learning: Google Data Analytics Foundations: Data, Data, Everywhere Certificate.
 
 ---
 
