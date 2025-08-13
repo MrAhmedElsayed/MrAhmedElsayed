@@ -1,3 +1,6 @@
+![Github Stats](https://greptile-stats.vercel.app/api/widget/MrAhmedElsayed/stats)
+
+
 # 💫 About Me:
 I'm currently working on Survey Points Manager, Plugin for AutoCAD<br>I'm looking for help with a Nuxt Content documentation application that supports three languages.<br>I'm currently learning Google: Foundations: Data, Data, Everywhere, as part of Google Data Analytics Professional Certificate.<br>Ask me about optimizing workflows for AutoCAD plugins.<br>Fun fact: The UTM coordinate system divides the world into 60 vertical zones!
 
