@@ -60,6 +60,7 @@
 
 <p align="center">
   <a href="https://hits.sh/github.com/MrAhmedElsayed/">
-    <img alt="Hits" src="https://hits.sh/github.com/MrAhmedElsayed.svg"/>
+    <img alt="Profile Views" src="https://hits.sh/github.com/MrAhmedElsayed.svg?style=flat-square&label=Profile%20Views&color=ffb86c&labelColor=f5f5f5"/>
   </a>
 </p>
+
