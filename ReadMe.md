@@ -58,5 +58,4 @@
 
 ---
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMrAhmedElsayed.readme)
-
+<a href="https://hits.sh/github.com/MrAhmedElsayed/" align="center"><img alt="Hits" src="https://hits.sh/github.com/MrAhmedElsayed.svg"/></a>
