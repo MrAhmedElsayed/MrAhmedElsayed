@@ -58,4 +58,8 @@
 
 ---
 
-<a href="https://hits.sh/github.com/MrAhmedElsayed/" align="center"><img alt="Hits" src="https://hits.sh/github.com/MrAhmedElsayed.svg"/></a>
+<p align="center">
+  <a href="https://hits.sh/github.com/MrAhmedElsayed/">
+    <img alt="Hits" src="https://hits.sh/github.com/MrAhmedElsayed.svg"/>
+  </a>
+</p>
